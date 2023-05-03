@@ -1,5 +1,5 @@
 # The-Sparks-Foundation-Internship-Program
-# The Sparks Foundation: Orientation for Graduate Rotational Internship Program(GRIP)
+## The Sparks Foundation: Orientation for Graduate Rotational Internship Program(GRIP)
 
 ## Task : Exploratory-Data-Analysis-Terrorism
 
