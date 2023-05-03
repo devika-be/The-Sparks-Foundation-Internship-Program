@@ -1,5 +1,6 @@
 # The-Sparks-Foundation-Internship-Program
 ## The Sparks Foundation: Orientation for Graduate Rotational Internship Program(GRIP)
+### Data Science and Business Analytics Intern @ The Sparks Foundation(GRIP)
 
 ## Task : Exploratory-Data-Analysis-Terrorism
 
