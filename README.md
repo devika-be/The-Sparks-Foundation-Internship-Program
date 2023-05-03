@@ -21,7 +21,7 @@ Here in this project I have analysed the huge dataset of Terrorism where all the
 #### Dataset : globalterrorismdb_0718dist.csv [https://bit.ly/2TK5Xn5]
 
 
-## Task-2 : Prediction-using-Decision-Tree-Algorithm
+## Task 2 : Prediction-using-Decision-Tree-Algorithm
 
 Here in this project I have analysed the Iris dataset where all the details are being provided Prediction using Decision Tree Algorithm.
 
